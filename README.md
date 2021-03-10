@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ## Using Linear Regression
 
 * Weight vector is calculated first
-![image](https://user-images.githubusercontent.com/50255936/110656289-c7deb300-81fa-11eb-9eb6-18d262eb0498.png)
+![image](https://user-images.githubusercontent.com/50255936/110659283-6704aa00-81fd-11eb-896c-e1d7578dcb76.png)
 * Predicted values are calculated as follows:
 ![image](https://user-images.githubusercontent.com/50255936/110656381-dcbb4680-81fa-11eb-9c11-9517ee0409c2.png)
 
