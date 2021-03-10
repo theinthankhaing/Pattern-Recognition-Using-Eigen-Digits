@@ -17,7 +17,7 @@ ____________________________________________________________________
 * Centered the data
 * Calculated Covariance matrix
 
-Eigen - Digits Images
+### Eigen - Digits Images
 ![image](https://user-images.githubusercontent.com/50255936/110647209-982bad00-81f2-11eb-8c20-c33cea625af0.png)
 ___________________________________________________________________________
 ## Image Reconstruction
