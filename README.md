@@ -50,4 +50,31 @@ ________________________________________________________________________________
 ### Confusion Matrix
 ![image](https://user-images.githubusercontent.com/50255936/110656702-260b9600-81fb-11eb-8d0d-39f16b97ff4d.png)
 
+## Using Polynomial Regression
+* Second order polynomial is used
+* Second order polynomial matrix for both train images and test images is setup according to the following equation:
+![image](https://user-images.githubusercontent.com/50255936/110657286-adf1a000-81fb-11eb-830c-cbcb531eda04.png)
+* Weight vector is calculated as follows:
+![image](https://user-images.githubusercontent.com/50255936/110657345-b9dd6200-81fb-11eb-80c0-b4b9c8ba0b8c.png)
+* Predicted values are calculated as follows:
+![image](https://user-images.githubusercontent.com/50255936/110657461-ce215f00-81fb-11eb-959e-16f36984b8f6.png)
+
+### Block Diagram of the implementation of Polynomial Regression
+![image](https://user-images.githubusercontent.com/50255936/110657588-e8f3d380-81fb-11eb-8961-8f68c942cd16.png)
+
+### Classification Accuracy
+![image](https://user-images.githubusercontent.com/50255936/110657647-f8731c80-81fb-11eb-9e42-15e5a5aa91ba.png)
+
+### Confusion Matrix
+![image](https://user-images.githubusercontent.com/50255936/110657693-0163ee00-81fc-11eb-9fe6-bf96200e4ea6.png)
+
+## Training Vs Testing Accuracy for Linear Regression over Number of EigenVectors (Features)
+![image](https://user-images.githubusercontent.com/50255936/110657956-3c662180-81fc-11eb-87f0-cd80757d7ee4.png)
+
+## Training Vs Testing Accuracy for Polynomial Regression over Number of EigenVectors (Features)
+![image](https://user-images.githubusercontent.com/50255936/110658649-d29a4780-81fc-11eb-9416-ea51299eacf2.png)
+
+
+
+
 
