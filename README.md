@@ -39,6 +39,7 @@ ________________________________________________________________________________
 * Weight vector is calculated first
 
 ![image](https://user-images.githubusercontent.com/50255936/110659283-6704aa00-81fd-11eb-896c-e1d7578dcb76.png)
+
 ![image](https://user-images.githubusercontent.com/50255936/110659467-91566780-81fd-11eb-84b2-39f0553b1b2b.png)
 
 * Predicted values are calculated as follows:
