@@ -57,9 +57,15 @@ ________________________________________________________________________________
 ## Using Polynomial Regression
 * Second order polynomial is used
 * Second order polynomial matrix for both train images and test images is setup according to the following equation:
+
 ![image](https://user-images.githubusercontent.com/50255936/110657286-adf1a000-81fb-11eb-830c-cbcb531eda04.png)
+
 * Weight vector is calculated as follows:
-![image](https://user-images.githubusercontent.com/50255936/110657345-b9dd6200-81fb-11eb-80c0-b4b9c8ba0b8c.png)
+
+![image](https://user-images.githubusercontent.com/50255936/110659679-c06cd900-81fd-11eb-9639-8a0b432df364.png)
+
+![image](https://user-images.githubusercontent.com/50255936/110659711-c8c51400-81fd-11eb-9ae9-c7e5b6f30874.png)
+
 * Predicted values are calculated as follows:
 ![image](https://user-images.githubusercontent.com/50255936/110657461-ce215f00-81fb-11eb-959e-16f36984b8f6.png)
 
