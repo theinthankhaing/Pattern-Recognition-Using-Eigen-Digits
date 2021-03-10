@@ -11,7 +11,7 @@ __________________________________________________________
 * MATLAB
 ________________________________________________________________
 ## Dataset
-* [MNIST Handwritten Digit Dataset] (http://yann.lecun.com/exdb/mnist/)
+* [MNIST Handwritten Digit Dataset](http://yann.lecun.com/exdb/mnist/)
 ____________________________________________________________________
 ## Calculation of Eigen Value and Eigen Vectors
 * Centered the data
