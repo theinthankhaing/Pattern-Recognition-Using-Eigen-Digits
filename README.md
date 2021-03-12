@@ -5,7 +5,7 @@
 * Reconstructed Handwritten digits
 * Classification using Linear Regression
 * Classification using Polynomial Regression
-* MATLAB is used
+* Programming Language - MATLAB
 __________________________________________________________
 ## Environment Setup
 * MATLAB
